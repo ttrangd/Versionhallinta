@@ -3,7 +3,7 @@ public class App {
         
 
 
-        int ika = 15;
+        int ika = 16;
 
 
     if (ika > 0 && ika < 18) {
@@ -39,11 +39,11 @@ public class App {
         System.out.println("Hyvää keski-ikää");
 
      }
-
-     else { 
+      else { 
         System.out.println("Olet aikuinen");
      }
  
+    
 
     }
 }
