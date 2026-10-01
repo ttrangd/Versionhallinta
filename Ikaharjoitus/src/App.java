@@ -3,7 +3,7 @@ public class App {
         
 
 
-        int ika = 16;
+        int ika = 20;
 
 
     if (ika > 0 && ika < 18) {
